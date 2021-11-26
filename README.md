@@ -74,7 +74,7 @@
 
   
   
-⚠️🔃**Faça o login através do endpoint /login para poder acessar todos os endpoints  <br><br> 
+⚠️🔃**Faça o login através do endpoint /login para poder acessar todos os endpointss  <br><br> 
 
 ⚠️🔃**UTILIZAR O SEGUINTE MODELO PARA INSERIR UM NOVO PEDIDO <br><br> 
 {
